@@ -22,7 +22,7 @@ model = genai.GenerativeModel("gemini-1.5-flash")
 
 # Set up Streamlit
 st.set_page_config(
-    page_title="TrueVision - CSV Summarizer",
+    page_title="DhruvSummariser - CSV Summarizer",
     page_icon="📄",
     layout="wide",
     initial_sidebar_state="expanded"
